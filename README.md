@@ -9,7 +9,7 @@
 
 # Double Sphere Camera Model
 
-Unofficial Python library of Double Sphere Camera Model for fisheye cameras.
+Python library of Double Sphere Camera Model for Supporting [Leopard Imaging Owl fisheye camera](https://leopardimaging.com/product/automotive-cameras/cameras-by-interface/maxim-gmsl-2-cameras/li-ar0234cs-gmsl2-owl/li-ar0234cs-gmsl2-owl/).
 
 Reference:
 
@@ -28,8 +28,12 @@ cd dscamera
 python setup.py install
 ```
 
+## Example LI Owl Fisheye Camera
+Please check `example-li-owl` folder for fisheye image rectifications.
+
 ## Camera calibration
 Please use [Basalt](https://vision.in.tum.de/research/vslam/basalt) for fisheye camera calibration. The detail instruction is available [here](https://gitlab.com/VladyslavUsenko/basalt/blob/master/doc/Calibration.md).
+
 
 ## Example
 Please check `example` folder for fisheye image rectifications.
