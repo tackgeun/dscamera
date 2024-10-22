@@ -32,15 +32,16 @@ python setup.py install
 Please check `example-li-owl` folder for fisheye image rectifications.
 
 Input fisheye image:
-<img src="./example-li-owl/sample2.png" width="300px">
+
+<img src="./example-li-owl/sample2.png" width="350px">
 
 Output zoom-in perspective image:
 
-<img src="./example-li-owl/zoomin_perspective2.png" width="250px">
+<img src="./example-li-owl/zoomin_perspective2.png" width="300px">
 
 Output zoom-out perspective image:
 
-<img src="./example-li-owl/zoomout_perspective2.jpg" width="250px">
+<img src="./example-li-owl/zoomout_perspective2.jpg" width="350px">
 
 
 ## Camera calibration
