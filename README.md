@@ -41,7 +41,7 @@ Output zoom-in perspective image:
 
 Output zoom-out perspective image:
 
-<img src="./example-li-owl/zoomout_perspective2.jpg" width="350px">
+<img src="./example-li-owl/zoomout_perspective2.png" width="350px">
 
 
 ## Camera calibration
