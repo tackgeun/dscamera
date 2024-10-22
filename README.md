@@ -31,6 +31,18 @@ python setup.py install
 ## Example LI Owl Fisheye Camera
 Please check `example-li-owl` folder for fisheye image rectifications.
 
+Input fisheye image:
+<img src="./example-li-owl/sample2.png" width="300px">
+
+Output zoom-in perspective image:
+
+<img src="./example-li-owl/zoomin_perspective2.png" width="250px">
+
+Output zoom-out perspective image:
+
+<img src="./example-li-owl/zoomout_perspective2.jpg" width="250px">
+
+
 ## Camera calibration
 Please use [Basalt](https://vision.in.tum.de/research/vslam/basalt) for fisheye camera calibration. The detail instruction is available [here](https://gitlab.com/VladyslavUsenko/basalt/blob/master/doc/Calibration.md).
 
